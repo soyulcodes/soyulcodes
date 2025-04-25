@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I started in law (L.L.B.), pivoted into finance(CFA Level III Candidate), and am now diving into code!
+I started in law, pivoted into finance, and am now diving into code!
 
 I took Python and C++ as general electives during my undergraduate years and didn’t think much of it at the time. Years later, I became interested in coding after exploring CFA topics (ML, big data) and automating tasks with Apple Shortcuts, and unexpectedly fell in love with it. So, here I am! 
 
