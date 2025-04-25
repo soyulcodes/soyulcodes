@@ -4,7 +4,7 @@ I started in law (L.L.B.), pivoted into finance(CFA Level III Candidate), and am
 
 I took Python and C++ as general electives during my undergraduate years and didn’t think much of it at the time. Years later, I became interested in coding after exploring CFA topics (ML, big data) and automating tasks with Apple Shortcuts, and unexpectedly fell in love with it. So, here I am! 
 
-I'm a total beginner, so please feel free to chime in or offer feedback at any time!
+***I'm a total beginner, so please feel free to chime in or offer feedback at any time!*** 
 
 📧 side1.proj@gmail.com
 
